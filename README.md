@@ -40,27 +40,30 @@ Nunc semper metus orci, non egestas odio cursus et. Curabitur luctus purus augue
 
 #### Data Connector 
 
-| Pin # | Pin Name  | Desc      |
-|:-----:|-----------|-----------|
-S1    GROUND 	  Primary signal
-S2 	  RP+ 	  Primary signal
-S3 	  RP- 	  Primary signal
-S4 	  GROUND 	  Primary signal
-S5 	  TP- 	  Primary signal
-S6 	  TP+ 	  Primary signal
-S7 	  GROUND 	  Primary signal
+| Pin # | Pin Name  | Desc           |
+|:-----:|-----------|----------------|
+| S1    | GROUND 	| Primary signal |
+| S2 	| RP+ 	    | Primary signal |
+| S3 	| RP- 	    | Primary signal |
+| S4 	| GROUND 	| Primary signal |
+| S5 	| TP- 	    | Primary signal |
+| S6 	| TP+ 	    | Primary signal |
+| S7 	| GROUND 	| Primary signal |
 
 
-| Pin # | Pin Name  | Desc      |
-|:-----:|-----------|-----------|
-S8 	  GROUND 	  Secondary signal *
-S9 	  RS+ 	  Secondary signal *
-S10 	  RS- 	  Secondary signal *
-S11 	  GROUND 	  Secondary signal *
-S12 	  TS- 	  Secondary signal *
-S13 	  TS+ 	  Secondary signal *
-S14 	  GROUND 	  Secondary signal *
+| Pin # | Pin Name  | Desc               |
+|:-----:|-----------|--------------------|
+| S8 	| GROUND 	| Secondary signal * |
+| S9 	| RS+ 	    | Secondary signal * |
+| S10 	| RS- 	    | Secondary signal * |
+| S11 	| GROUND 	| Secondary signal * |
+| S12 	| TS- 	    | Secondary signal * |
+| S13 	| TS+ 	    | Secondary signal * |
+| S14 	| GROUND 	| Secondary signal * |
+
 (*) S8 through S14 are no-connects on single-port implementations
+
+
 #### Power Connector 
 | Pin # | Pin Name  | Desc      |
 |:-----:|-----------|-----------|
